@@ -3,10 +3,9 @@
 Real-time heart rate monitoring device with cloud-based data visualization.
 
 ## 🔧 Features
-- Real-time BLE heart rate data transmission
-- React-based dashboard for data visualization
+- Real-time heart rate data transmission
+- Display for data visualization
 - Historical data tracking with cloud storage
-- Responsive web interface
 - Data analysis and insights
 
 ## 🛠️ Tech Stack
@@ -16,8 +15,6 @@ Real-time heart rate monitoring device with cloud-based data visualization.
 
 ## 🎯 My Role
 Led development:
-- BLE device integration and communication protocol
-- React dashboard implementation
 - Real-time data visualization
 - Cloud storage integration
 - Device-to-web data pipeline
